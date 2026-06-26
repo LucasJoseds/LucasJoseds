@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
-<h3 align="center">Desenvolvedor Java | Back-end Pleno</h3>
+<h3 align="center">Desenvolvedor Java</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+PostgreSQL;Desenvolvedor+Back-end;Construindo+APIs+RESTful+robustas;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
@@ -23,7 +23,7 @@
 - 🏛️ Analista de Sistemas / Homologador na **ATI - Agência de Tecnologia da Informação (TO)**
 - 🎓 Bacharelando em Sistemas de Informação - UNITINS
 - 🛠️ Experiência com APIs RESTful, integração de sistemas, JSF/PrimeFaces e Angular
-- 📚 Atualmente aprendendo Docker, AWS, Python e C#
+- 📚 Atualmente aprendendo Python e C#
 - 📍 Palmas - TO, Brasil
 
 ---
@@ -31,7 +31,7 @@
 ### 🧠 Stacks e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,angular,eclipse,postman,docker,aws,python,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,angular,eclipse,postman,docker,python,cs&theme=dark" />
 </p>
 
 ---
